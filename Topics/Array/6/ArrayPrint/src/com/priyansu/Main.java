@@ -7,7 +7,6 @@ public class Main {
         /**
          * print array elements in 4 diffrent ways
          */
-
-
+        
     }
 }
