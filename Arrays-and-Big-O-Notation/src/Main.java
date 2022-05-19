@@ -14,6 +14,12 @@ public class Main {
         intArray[4] = 55;
         intArray[5] = 1;
         intArray[6] = -22;
+
+        //Retrieve all elements from the array
+        for (int i = 0; i < intArray.length; i++) {
+            System.out.println(intArray[i]);
+        }
+
         //element we want to find
         int index = -1;
         //statement to find the index
@@ -25,5 +31,6 @@ public class Main {
             }
         }
         System.out.println("index = " + index);
+
     }
 }
