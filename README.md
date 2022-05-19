@@ -1,2 +1,2 @@
 # DSA
-Placement DSA preparations and problem solving
+DSA preparations for Placement and problem solving.
